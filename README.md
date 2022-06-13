@@ -12,6 +12,6 @@ N.B. This reposistory is currently being maintained by Lead Facilitator, Ciara A
 
 | Module.       | Summary                                       | Binder Link          |Berkeley Datahub Link           |
 |---------------|-----------------------------------------------|----------------------|--------------------------------|
-| All Notebooks   | Opens Entire Repo.    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-HighSchool%20Datahub-blue.svg)]([http://highschool.datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=BUDS-SU22&branch=main](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FBUDS-SU22&urlpath=tree%2FBUDS-SU22%2F&branch=main)) |
+| All Notebooks   | Opens Entire Repo.    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-HighSchool%20Datahub-blue.svg)]([[http://highschool.datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=BUDS-SU22&branch=main](https://highschool.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FBUDS-SU22&urlpath=tree%2FBUDS-SU22%2F&branch=main)]) |
 | Notebook 1   | Notebook 1 specific Link               |  [![Binder](https://mybinder.org/badge.svg)]()  | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]()|
 
