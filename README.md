@@ -1,10 +1,5 @@
 # BUDS-SU22
 # Berkeley Unboxing Data Science - Summer 2022
-# 
-## 
-### Lead: Ciara Acosta
-
-**Public Facing Repository for Berkeley Unboxing Data Science**
 
 Led by Professor Ani Adhikari and Professor Deborah Nolan and in conjunction with Data Science Undergraduate Studies of the UC Berkeley Division of Computing, Data Science and Society, the BUDS program is a five week internship for current high school juniors and seniors to gain relevant skills within the field of data science. For more information, please visit the official program website
 
